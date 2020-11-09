@@ -17,3 +17,16 @@ WHEN I refresh the page<br>
 THEN the saved events persist<br>
 
 ## Link to the deployed application:
+https://aidanguarniere.github.io/workday-schedule/
+
+
+## Screenshot of deployed application:
+<img src = workday-schedule-screenshot.png>
+
+## Setup
+```
+git clone https://github.com/AidanGuarniere/workday-schedule.git
+
+```
+
+ 
