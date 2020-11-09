@@ -30,10 +30,13 @@ textarea{
   border-radius: 15px;
 }
 
+
+
 .row {
   white-space: pre-wrap;
   height: 80px;
-  border-top: 1px solid white;;
+  margin-bottom: 20px;
+  border-top: 1px solid white;
 }
 
 .hour {
@@ -69,3 +72,10 @@ textarea{
   font-size: 20px;
   transition: all .3s ease-in-out;
 }
+
+input {
+border: none;
+}
+
+
+
